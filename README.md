@@ -1,1 +1,1 @@
-# laundry-buddy
+# Laundry Buddy
