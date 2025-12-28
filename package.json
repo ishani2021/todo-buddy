@@ -1,0 +1,20 @@
+{
+  "name": "todo-buddy",
+  "version": "1.0.0",
+  "description": "your to-do buddy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishani2021/todo-buddy.git"
+  },
+  "keywords": [],
+  "author": "ishani2021",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishani2021/todo-buddy/issues"
+  },
+  "homepage": "https://github.com/ishani2021/todo-buddy#readme"
+}
